@@ -1,7 +1,7 @@
 # Email Verification Component
 
 ## Spec
-![Component design](Email Verification Component design.png?raw=true "Component design")
+![Component design](Email%20Verification%20Component%20design.png?raw=true "Component design")
 
 ## Font
 [Red Hat Text](https://fonts.google.com/specimen/Red+Hat+Text)
