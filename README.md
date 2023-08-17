@@ -1,5 +1,7 @@
 # Email Verification Component
 
+__Note:__ this was used as part of a frontend engineer interview exercise years ago. Archiving as it's no longer relevant :)
+
 ## Spec
 ![Component design](Email%20Verification%20Component%20design.png?raw=true "Component design")
 
